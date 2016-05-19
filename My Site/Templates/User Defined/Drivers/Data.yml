@@ -1,0 +1,17 @@
+﻿---
+ID: "680b3cbc-69f2-475d-a260-bc9830a0d481"
+Parent: "84ca3c61-f966-486e-bf42-bf3fd4ed4a25"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/User Defined/Drivers/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160503T023623Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin

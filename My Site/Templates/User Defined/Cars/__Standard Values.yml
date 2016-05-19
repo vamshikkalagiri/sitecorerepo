@@ -1,0 +1,29 @@
+﻿---
+ID: "028b78c4-3029-4d6b-a4ea-602e2eb49a3a"
+Parent: "ba8f5114-6e3d-438d-b1e4-2634f326f4d7"
+Template: "ba8f5114-6e3d-438d-b1e4-2634f326f4d7"
+Path: /sitecore/templates/User Defined/Cars/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160501T030014Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "9453b5d4-db2a-4662-b6b6-a7a0af4f4674"
+      Hint: Car Image
+      Value: "<image mediapath=\"\" alt=\"Race Car\" width=\"\" height=\"\" hspace=\"\" vspace=\"\" showineditor=\"\" usethumbnail=\"\" src=\"\" mediaid=\"{3E845304-18BA-4731-9BDC-8152BAB1BB0E}\" />"
+    - ID: "a63bddb3-ed26-4e89-86c0-baf2c4bb6c59"
+      Hint: Make
+      Value: $name
+    - ID: "ab8aec89-32c8-4845-b98e-e4cd34aad565"
+      Hint: Read More
+      Value: "<link text=\"\" linktype=\"internal\" url=\"\" anchor=\"\" title=\"\" class=\"\" querystring=\"\" target=\"\" id=\"{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}\" />"
+    - ID: "f73b4a4c-8416-482a-8864-0d5357893a4e"
+      Hint: Mfg Date
+      Value: 20160503T000000

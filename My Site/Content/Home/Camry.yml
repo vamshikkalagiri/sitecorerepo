@@ -1,0 +1,23 @@
+﻿---
+ID: "65504ce1-5c43-4cf5-a8ee-cc574b2a4f4a"
+Parent: "110d559f-dea5-42ea-9c1c-8a5df7e70ef9"
+Template: "ba8f5114-6e3d-438d-b1e4-2634f326f4d7"
+Path: /sitecore/content/Home/Camry
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160502T013156Z
+    - ID: "91839c01-65f3-4d11-a7e7-17c1286265e5"
+      Hint: Model
+      Value: Toyota Camry
+    - ID: "a63bddb3-ed26-4e89-86c0-baf2c4bb6c59"
+      Hint: Make
+      Value: Cary
+    - ID: "f73b4a4c-8416-482a-8864-0d5357893a4e"
+      Hint: Mfg Date
+      Value: 20160503T040000Z

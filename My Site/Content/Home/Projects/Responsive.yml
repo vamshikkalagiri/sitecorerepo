@@ -1,0 +1,44 @@
+﻿---
+ID: "e07d458b-f42d-4caf-9c68-27e8ec7a3d31"
+Parent: "0bfa8912-d0ae-4cd1-88cd-9ffbdb09a56d"
+Template: "4349deba-c949-46db-8222-3e3ea6fc1e95"
+Path: /sitecore/content/Home/Projects/Responsive
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r>
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{2C20F081-3D26-4989-902D-1B1699457AB8}">
+        <r
+          id="{D947DF7F-4189-43F9-B214-21C503C82CAF}"
+          ph="myviewcontent"
+          uid="{5300C938-34C2-47E7-B319-E6E32518230D}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160510T192349Z
+    - ID: "417ab4c8-0744-4777-a85a-46d19ebe52cf"
+      Hint: Budget
+      Value: 500,000
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "77191068-c914-4b2e-8a92-b423dd8b0da4"
+      Hint: Manager
+      Value: Dave
+    - ID: "92a87a8f-182b-47ba-982f-38d8be1fe1bf"
+      Hint: Iteam Link
+      Value: "<link text=\"EUWEB\" linktype=\"external\" url=\"https://iteam.prod.ppl.com/iteam/pages/Application%20Data/ApplicationDetail.aspx\" anchor=\"\" title=\"\" class=\"\" querystring=\"\" target=\"\" id=\"\" />"
+    - ID: "aada77f2-7b43-4574-8129-28935d24bdc6"
+      Hint: Name
+      Value: Reponsive Project Details

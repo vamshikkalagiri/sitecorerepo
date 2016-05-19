@@ -1,0 +1,18 @@
+﻿---
+ID: "1cc4525b-6007-4f9c-9f5f-8b09a4a09c08"
+Parent: "680b3cbc-69f2-475d-a260-bc9830a0d481"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/User Defined/Drivers/Data/Name
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: "Single-Line Text"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160503T023623Z

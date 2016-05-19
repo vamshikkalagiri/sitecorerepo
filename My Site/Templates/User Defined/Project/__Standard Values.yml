@@ -1,0 +1,20 @@
+﻿---
+ID: "80723b55-526f-4c4d-8d25-8ee2767dbb93"
+Parent: "4349deba-c949-46db-8222-3e3ea6fc1e95"
+Template: "4349deba-c949-46db-8222-3e3ea6fc1e95"
+Path: /sitecore/templates/User Defined/Project/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160513T151204Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "aada77f2-7b43-4574-8129-28935d24bdc6"
+      Hint: Name
+      Value: $name
