@@ -1,0 +1,23 @@
+﻿---
+ID: "b86d4cc8-d206-4c13-8aa5-afbb13c316ce"
+Parent: "0bfa8912-d0ae-4cd1-88cd-9ffbdb09a56d"
+Template: "4349deba-c949-46db-8222-3e3ea6fc1e95"
+Path: /sitecore/content/Home/Projects/Bellomy
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160520T115547Z
+    - ID: "417ab4c8-0744-4777-a85a-46d19ebe52cf"
+      Hint: Budget
+      Value: 100,000
+    - ID: "77191068-c914-4b2e-8a92-b423dd8b0da4"
+      Hint: Manager
+      Value: David
+    - ID: "aada77f2-7b43-4574-8129-28935d24bdc6"
+      Hint: Name
+      Value: Bellomy
